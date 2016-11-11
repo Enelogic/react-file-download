@@ -9,6 +9,11 @@
   "dependencies": {
     "react": "^0.14.7"
   },
+  "devDependencies": {
+    "babel-plugin-transform-object-assign": "^6.8.0",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-stage-0": "^6.16.0"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:kennethjiang/react-file-download.git"
